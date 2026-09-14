@@ -9,7 +9,7 @@ redirect_from:
 
 I am Xiayan Li, a PhD student in Communication at Nanjing University.
 
-My research interests lie at international communication, digital media, and cultural memory.
+My research interests lie in international communication, digital media, and cultural memory.
 
 ## Research Interests
 
